@@ -1,0 +1,29 @@
+{
+  "name": "visibilityjs",
+  "homepage": "https://github.com/ravikoin/visibilityjs",
+  "authors": ["Andrey A.I. Sitnik <andrey@sitnik.ru>"],
+  "description": "Wrapper for the Page Visibility API",
+  "license": "MIT",
+  "main": [
+    "lib/visibility.core.js",
+    "lib/visibility.timers.js"
+  ],
+  "ignore": [
+    "package.json",
+    "*.gemspec",
+    "Cakefile",
+    "test",
+    "*.rb",
+    ".*"
+  ],
+  "version": "1.2.7",
+  "_release": "1.2.7",
+  "_resolution": {
+    "type": "version",
+    "tag": "1.2.7",
+    "commit": "1ad02bbf6ec3d1f73e7913419baffa3394111a25"
+  },
+  "_source": "https://github.com/ravikoin/visibilityjs.git",
+  "_target": "*",
+  "_originalSource": "visibilityjs"
+}
