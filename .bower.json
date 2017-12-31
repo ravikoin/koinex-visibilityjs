@@ -1,6 +1,6 @@
 {
   "name": "visibilityjs",
-  "homepage": "https://github.com/ravikoin/visibilityjs",
+  "homepage": "https://github.com/ravikoin/koinex-visibilityjs",
   "authors": ["Andrey A.I. Sitnik <andrey@sitnik.ru>"],
   "description": "Wrapper for the Page Visibility API",
   "license": "MIT",
@@ -23,7 +23,7 @@
     "tag": "1.2.7",
     "commit": "1ad02bbf6ec3d1f73e7913419baffa3394111a25"
   },
-  "_source": "https://github.com/ravikoin/visibilityjs.git",
+  "_source": "https://github.com/ravikoin/koinex-visibilityjs.git",
   "_target": "*",
   "_originalSource": "visibilityjs"
 }
